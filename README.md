@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Reddis**
 
-- 💬 Ask me about **TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL,GraphQL,Flutter**
+- 💬 Ask me about **TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL, GraphQL, Flutter**
 
 - 📫 How to reach me **itz.deeepak@gmail.com**
 
