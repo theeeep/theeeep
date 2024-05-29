@@ -1,8 +1,8 @@
-[!MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Behera</h1>
 <h3 align="center">A passionate Full Stack App Developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src:”https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966” >
+<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeeep&label=Profile%20views&color=0e75b6&style=flat" alt="theeeep" /> </p>
 
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Reddis**
 
-- 💬 Ask me about **Backend: TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL,GraphQL**
+- 💬 Ask me about **TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL,GraphQL,Flutter**
 
 - 📫 How to reach me **itz.deeepak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10tWQUohGKhZwsXi6Ye8iZrqPbEIZNjxu/view?usp=drive_link](https://drive.google.com/file/d/10tWQUohGKhZwsXi6Ye8iZrqPbEIZNjxu/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10tWQUohGKhZwsXi6Ye8iZrqPbEIZNjxu/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
