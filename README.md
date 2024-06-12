@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/deepakkuma43771" target="blank"><img src="https://img.shields.io/twitter/follow/deepakkuma43771?logo=twitter&style=for-the-badge" alt="deepakkuma43771" /></a> </p>
 
-- 🔭 I’m currently working on [Chit-Chat App](https://github.com/theeeep/chit_chat_app)
+<!-- - 🔭 I’m currently working on [Chit-Chat App](https://github.com/theeeep/chit_chat_app) -->
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Reddis**
+<!-- - 🌱 I’m currently learning **AWS, Kubernetes, Reddis** -->
 
 - 💬 Ask me about **TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL, GraphQL, Flutter**
 
