@@ -1,13 +1,13 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Behera</h1>
-<h3 align="center">A passionate Full Stack App Developer from India</h3>
+<h3 align="center">A Passionate Full Stack App Developer from India</h3>
 <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeeep&label=Profile%20views&color=0e75b6&style=flat" alt="theeeep" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deepakkuma43771" target="blank"><img src="https://img.shields.io/twitter/follow/deepakkuma43771?logo=twitter&style=for-the-badge" alt="deepakkuma43771" /></a> </p>
-
+<p align="left"> <a href="(https://x.com/dev_deee)" target="blank"><img src="https://img.shields.io/twitter/follow/deepakkuma43771?logo=twitter&style=for-the-badge" alt="dev_deee" /></a> </p>
+https://x.com/dev_deee
 <!-- - 🔭 I’m currently working on [Chit-Chat App](https://github.com/theeeep/chit_chat_app) -->
 
 - 🌱 I’m currently learning ** Kubernetes, Reddis** 
@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **itz.deeepak@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PM0_ZlvL_lgpLTaIue2lB4dpuUrf8ShR/view?usp=drive_link)
-- 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PM0_ZlvL_lgpLTaIue2lB4dpuUrf8ShR/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
