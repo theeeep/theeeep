@@ -10,13 +10,14 @@
 
 <!-- - 🔭 I’m currently working on [Chit-Chat App](https://github.com/theeeep/chit_chat_app) -->
 
-<!-- - 🌱 I’m currently learning **AWS, Kubernetes, Reddis** -->
+- 🌱 I’m currently learning ** Kubernetes, Reddis** 
 
 - 💬 Ask me about **TypeScript, ExpressJs, PostgreSQL, MongoDB, MySQL, GraphQL, Flutter**
 
 - 📫 How to reach me **itz.deeepak@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10tWQUohGKhZwsXi6Ye8iZrqPbEIZNjxu/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PM0_ZlvL_lgpLTaIue2lB4dpuUrf8ShR/view?usp=drive_link)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
