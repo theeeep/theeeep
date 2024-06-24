@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeeep&label=Profile%20views&color=0e75b6&style=flat" alt="theeeep" /> </p>
 
-<p align="left"> <a href="(https://x.com/dev_deee)" target="blank"><img src="https://img.shields.io/twitter/url/follow/dev_dee?logo=twitter&style=for-the-badge" alt="dev_deee" /></a> </p>
+<p align="left"> <a href="(https://x.com/dev_deee)" target="blank"><img src="https://img.shields.io/twitter/follow/dev_dee?logo=x&style=for-the-badge" alt="dev_deee" /></a> </p>
 <!-- - 🔭 I’m currently working on [Chit-Chat App](https://github.com/theeeep/chit_chat_app) -->
 
 - 🌱 I’m currently learning ** Kubernetes, Reddis** 
