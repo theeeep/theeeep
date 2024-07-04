@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **itz.deeepak@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PM0_ZlvL_lgpLTaIue2lB4dpuUrf8ShR/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
